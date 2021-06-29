@@ -34,5 +34,32 @@
   
   
   
+  <entry>
+    <title>my-second-post</title>
+    <link href="/2021/06/28/my-second-post/"/>
+    <url>/2021/06/28/my-second-post/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Try-to-paste-an-image-here"><a href="#Try-to-paste-an-image-here" class="headerlink" title="Try to paste an image here"></a>Try to paste an image here</h3><p><img src="2021-06-29T135011.png" alt="2021-06-29T135011"></p><p>Looks working in my vs code env.</p><p>Now deploy to github.io to see if it still works:)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+      <category>Notes</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>untagged</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
