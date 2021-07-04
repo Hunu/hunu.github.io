@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2021/07/04/2021-07-04-hello-world-again/"/>
+    <url>/2021/07/04/2021-07-04-hello-world-again/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Some-important-machine-learning-command"><a href="#Some-important-machine-learning-command" class="headerlink" title="Some important machine learning command"></a>Some important machine learning command</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs python"><br><span class="hljs-keyword">from</span> sklearn.tree <span class="hljs-keyword">import</span> DecisionTreeRegressor<br><br>model = DecisionTreeRegressor(max_leaf_nodes=<span class="hljs-number">100</span>, random_state=<span class="hljs-number">1</span>)<br><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>bubblebubble</title>
     <link href="/2021/07/02/bubblebubble/"/>
     <url>/2021/07/02/bubblebubble/</url>
